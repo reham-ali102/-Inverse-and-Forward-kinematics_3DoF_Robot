@@ -10,6 +10,7 @@ Forward kinematics uses the joint parameters to compute the configuration of the
 ##Forward kinematics
 Forward movement involves determining the final position of the end effector.
 ![Database Table Structure](https://github.com/reham-ali102/-Inverse-and-Forward-kinematics_3DoF_Robot/blob/main/Forward%20kinematics.jpg)
+
 To calculate the forward kinematics,
 1- determine the position of the end effector sequentially along the x-axis for each of link 1, link 2, and link 3. Then, I will sum these positions together.
 ![Database Table Structure](https://github.com/reham-ali102/-Inverse-and-Forward-kinematics_3DoF_Robot/blob/main/FK1.jpg)
