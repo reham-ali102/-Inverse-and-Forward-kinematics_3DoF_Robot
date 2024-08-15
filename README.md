@@ -7,7 +7,8 @@ Forward kinematics uses the joint parameters to compute the configuration of the
 ![Database Table Structure](https://github.com/reham-ali102/-Inverse-and-Forward-kinematics_3DoF_Robot/blob/main/Inverse-and-Forward-kinematics.jpg)
 
 ## **Follow these steps to calculate this:**
-##Forward kinematics
+
+## Forward kinematics
 Forward movement involves determining the final position of the end effector.
 ![Database Table Structure](https://github.com/reham-ali102/-Inverse-and-Forward-kinematics_3DoF_Robot/blob/main/Forward%20kinematics.jpg)
 
